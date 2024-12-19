@@ -1,9 +1,9 @@
 # Hi there! 👋
 # 💫About Me :
-🌱 I’m currently learning Duy Tan University (DTU).
+🌱 I’m currently learning Duy Tan University (DTU). </br>
 🌱 I'm a software developer who loves coding and learning new technologies.
 
-## 🕒 My Working Hours (in UTC)
+## 🕒 Working Hours (in UTC)
 - **Monday to Friday**: 9:00 AM - 6:00 PM
 - **Saturday**: Closed
 - **Sunday**: Closed
